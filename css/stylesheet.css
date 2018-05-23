@@ -23,6 +23,26 @@
     font-size: bold;
 }
 
+table{
+    border-collapse: collapse;
+    border-spacing: 2;
+    width: 100%;
+    border: 1px solid #ddd;
+   
+}
+.tom{
+
+    padding-right: 200px;
+    padding-left: 200px;
+}
+th, td{
+    text-align: left;
+    padding: 12px;
+}
+
+tr:nth-child(even){
+    background-color: #f2f2f2
+}
 
 
 .dropdown{
@@ -128,12 +148,14 @@
     }
 
 .m-t{
+    border-spacing: 5px;
     width: 234px;
     height: 270;
     float: left;
     overflow: hidden;
     position: relative;
     margin: 5 20 30 0;
+    
 }
 .m-t{
     max-width: 100%;
@@ -181,7 +203,7 @@
    }
 
    * {
-       box-sizing: border-box
+       box-sizing: border-box;
    }
    .container{
        padding: 16px;
