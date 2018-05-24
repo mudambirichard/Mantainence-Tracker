@@ -15,10 +15,6 @@
 }
 
 
-*{
-    box-sizing:border-box;
-}
-
 .to{
     float: right;
     padding-right: 15%;
@@ -44,6 +40,7 @@
 
 
 ul{list-style-type: none;}
+/*############### clender css #####################*/
 
 .month {
     padding: 90px 20px;
