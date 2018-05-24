@@ -31,6 +31,16 @@
     padding-top: 18px;
     color: burlywood;
 }
+.post input{
+    float: right;
+    padding: 10px 16px;
+    color: #0d47a1;
+    
+}
+.you {
+    color: #4285F4;
+    text-transform: uppercase;
+}
 
 
 ul{list-style-type: none;}
