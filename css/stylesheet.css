@@ -18,8 +18,8 @@
 .to{
     float: right;
     padding-right: 15%;
-
 }
+
 
 .tr{
     padding-top: 18px;
@@ -32,7 +32,7 @@
     
 }
 .you {
-    
+    color: #4285F4;
     text-transform: uppercase;
 }
 
@@ -43,6 +43,7 @@ ul{list-style-type: none;}
 .month {
     padding: 90px 20px;
     width: 25%;
+    background:#42a5f5;
     text-align: center;
 }
 
