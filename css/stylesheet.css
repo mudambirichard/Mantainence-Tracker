@@ -242,7 +242,10 @@ tr:nth-child(even){
     font-size: 16px;
     font-family: Arial;
 }
-       
+     
+.don{
+    color:black;
+}    
 
 
 #about p{
@@ -313,7 +316,7 @@ tr:nth-child(even){
    .mt-feature{
        text-align: center;
        padding-top: 10px;
-       color: #4285F4;
+       color: white;
        font-size: 16px;
        font-family: Arial;
 }
