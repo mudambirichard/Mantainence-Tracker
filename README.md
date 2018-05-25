@@ -38,6 +38,16 @@ This is an applicacation that provides  users with  the ability to reach out to 
 ### Then start a project.
  -
  -
+
+ ## How to create a pull reuest.
+   ** Click on pull request.
+   ** Compare branches.
+   ** Click again on pull request.
+   ** Merge pull request.
+   **And finally confirm merge.
+
+   ###NB 
+    --you can comment, or give adescription.
  ## Contributors
   *Any one who feels to contribute on the Mantanience-Tracker App
   
